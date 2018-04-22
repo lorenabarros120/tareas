@@ -1,5 +1,1 @@
-file:///C:/Users/Mariuxi/Downloads/next%20u/desarrollo%20web/fundamento%20xml/tareas/mi_primera_pag_web_lb/index.html
-
-file:///C:/Users/Mariuxi/Downloads/next%20u/desarrollo%20web/fundamento%20xml/tareas/mi_primera_pag_web_lb/educacion.html
-
-file:///C:/Users/Mariuxi/Downloads/next%20u/desarrollo%20web/fundamento%20xml/tareas/mi_primera_pag_web_lb/experiencia.html
+https://github.com/lorenabarros120/tareas/tree/master/2.css%20y%20dise%C3%B1o%20web%20responsive_lorena_barros
