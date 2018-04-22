@@ -1,0 +1,63 @@
+
+@media (max-width: 899px) {
+    #contenido {
+        width: 100%;
+    }
+    header {
+        text-align: center;
+    }
+    header #logo {
+        width: 100%;
+    }
+    header #logo p {
+        font-size: 3.5rem;
+    }
+    header nav {
+        width: 100%;
+    }
+    header nav ul {
+        margin-top: 30px;
+        width: 100%;
+    }
+    header nav ul li a {
+        font-size: 2.08rem;
+    }
+    #main .imgs-secundarias {
+        display: block;
+        text-align: center;
+        width: 100%;
+    }
+    #main .imgs-secundarias figure {
+        margin-bottom: 5%;
+        margin-left: 10%;
+        margin-top: 10%;
+        width: 80%;
+    }
+    #main .imgs-secundarias figure figcaption {
+        font-size: 2rem;
+        margin-top: 5%;
+        width: 300px;
+    }
+    #main .imgs-container figure {
+        display: block;
+        width: 100%;
+    }
+    footer {
+        text-align: left;
+    }
+    footer section {
+        margin-bottom: 5%;
+        margin-left: 10%;
+        margin-top: 5%;
+        width: 80%;
+    }
+    footer section h3 {
+        text-align: left;
+    }
+    footer section div {
+        margin-top: 5%;
+    }
+    footer section div a {
+        font-size: 1.5rem;
+    }
+}
