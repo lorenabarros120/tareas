@@ -1,0 +1,24 @@
+#perfilimg{
+  border-radius: 10px;
+}
+
+img{
+  width: 100%;
+}
+
+.personal1{
+margin-top: 100px;
+}
+.personal{
+margin-top: 25px;
+}
+
+p{
+  text-align: justify;
+}
+#g{
+  height: 700px;
+}
+#ayudatexto2{
+  text-align: rigth;
+}
